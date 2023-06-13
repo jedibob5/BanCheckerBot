@@ -1,0 +1,8 @@
+.idea
+__pycache__
+venv
+bot_key.txt
+*.pem
+*.ppk
+nohup.out
+banlist.txt
