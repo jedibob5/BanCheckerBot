@@ -95,4 +95,4 @@ def evaluateDeck(event, say, thread):
 
 
 if __name__ == "__main__":
-    app.start(3000)
+    app.start(3001)
